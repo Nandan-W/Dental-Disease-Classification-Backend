@@ -1,0 +1,6 @@
+flask
+pillow
+numpy
+tensorflow
+python-dotenv
+flask-cors
